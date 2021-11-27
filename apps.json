@@ -35,9 +35,9 @@
             },
             "downloads": {
                 "version": "1.0",
-                "windows": "https://github.com/Prince527GitHub/Prince527-MC-launcher/releases/download/2.0.5.1/Prince527.s.MC.Launcher.v2.0.5.1.zip",
+                "windows": "https://github.com/Prince527GitHub/App-Store/blob/server/apps/Duck%20Dungeon%20Launcher.7z?raw=true",
                 "filename": "Duck Dungeon Launcher.exe",
-                "compressed": "zip",
+                "compressed": "7z",
                 "folder": {
                     "option": "true",
                     "name": "Duck Dungeon Launcher"
