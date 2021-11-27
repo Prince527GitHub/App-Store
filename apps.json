@@ -4,16 +4,16 @@
             "program": {
                 "title": "Prince527's MC launcher",
                 "description": "A launcher for most of Prince527's MC packs and more!",
-                "image": "https://api.serversmp.xyz/upload/prince/electron_GYFOo1wwT1.png"
+                "image": "https://github.com/Prince527GitHub/App-Store/blob/images/electron_GYFOo1wwT1.png?raw=true"
             },
             "author": {
                 "name": "Prince527",
                 "twitter": "@Prince527gaming",
-                "image": "https://api.serversmp.xyz/upload/prince/pika527v3.png"
+                "image": "https://github.com/Prince527GitHub/App-Store/blob/images/pika527v3.png?raw=true"
             },
             "downloads": {
-                "version": "2.0",
-                "windows": "https://prince527github.github.io/App-Store/apps/Prince527.s.MC.Launcher.v2.0.5.1.zip",
+                "version": "2.0.5.1",
+                "windows": "https://github.com/Prince527GitHub/Prince527-MC-launcher/releases/download/2.0.5.1/Prince527.s.MC.Launcher.v2.0.5.1.zip",
                 "filename": "Prince527's MC Launcher.exe",
                 "compressed": "zip",
                 "folder": {
@@ -26,12 +26,12 @@
             "program": {
                 "title": "DuckDungeon launcher",
                 "description": "The launcher for the game DuckDungeon.",
-                "image": "https://api.serversmp.xyz/upload/prince/electron_aC9zdIUIUD.png"
+                "image": "https://github.com/Prince527GitHub/App-Store/blob/images/electron_aC9zdIUIUD.png?raw=true"
             },
             "author": {
-                "name": "Arpi",
-                "twitter": "@AdrianoaDev",
-                "image": "https://github.com/Prince527GitHub/Duck-Dungeon/raw/web/assets/images/arpi.png?raw=true"
+                "name": "Arpi & Prince",
+                "twitter": "@AdrianoaDev & @Prince527gaming",
+                "image": "https://github.com/Prince527GitHub/App-Store/blob/images/prince+arpi.png?raw=true"
             },
             "downloads": {
                 "version": "1.0",
