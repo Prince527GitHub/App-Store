@@ -39,8 +39,8 @@
                 "filename": "Duck Dungeon Launcher.exe",
                 "compressed": "zip",
                 "folder": {
-                    "option": "false",
-                    "name": "nothing"
+                    "option": "true",
+                    "name": "Duck Dungeon Launcher"
                 } 
             }
         }
