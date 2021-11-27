@@ -3,7 +3,7 @@
     <img src="https://api.serversmp.xyz/upload/prince/logo.png" alt="EXA-Logo" width="200" height="200">
   </a>
 
-  <h1>App-Store</h1>
+  <h1 align="center">App-Store</h1>
 </p>
 
 ### This is the web server for the launcher.
