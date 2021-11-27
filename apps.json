@@ -13,12 +13,34 @@
             },
             "downloads": {
                 "version": "2.0",
-                "windows": "https://cdn.discordapp.com/attachments/887114285577302049/914185003116687370/Prince527.s.MC.Launcher.v2.0.5.1.zip",
+                "windows": "https://github.com/Prince527GitHub/Prince527-MC-launcher/releases/download/2.0.5.1/Prince527.s.MC.Launcher.v2.0.5.1.zip",
                 "filename": "Prince527's MC Launcher.exe",
                 "compressed": "zip",
                 "folder": {
                     "option": "true",
                     "name": "Prince527's MC Launcher"
+                } 
+            }
+        },
+        {
+            "program": {
+                "title": "DuckDungeon launcher",
+                "description": "The launcher for the game DuckDungeon.",
+                "image": "https://api.serversmp.xyz/upload/prince/electron_aC9zdIUIUD.png"
+            },
+            "author": {
+                "name": "Arpi",
+                "twitter": "@AdrianoaDev",
+                "image": "https://github.com/Prince527GitHub/Duck-Dungeon/raw/web/assets/images/arpi.png?raw=true"
+            },
+            "downloads": {
+                "version": "1.0",
+                "windows": "https://github.com/Prince527GitHub/Prince527-MC-launcher/releases/download/2.0.5.1/Prince527.s.MC.Launcher.v2.0.5.1.zip",
+                "filename": "Duck Dungeon Launcher.exe",
+                "compressed": "zip",
+                "folder": {
+                    "option": "false",
+                    "name": "nothing"
                 } 
             }
         }
