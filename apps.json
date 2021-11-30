@@ -35,12 +35,34 @@
             },
             "downloads": {
                 "version": "1.0",
-                "windows": "https://github.com/Prince527GitHub/App-Store/blob/server/apps/Duck%20Dungeon%20Launcher.7z?raw=true",
+                "windows": "https://prince527github.github.io/App-Store/apps/Duck%20Dungeon%20Launcher.7z",
                 "filename": "Duck Dungeon Launcher.exe",
                 "compressed": "7z",
                 "folder": {
-                    "option": "true",
-                    "name": "Duck Dungeon Launcher"
+                    "option": "false",
+                    "name": "nothing"
+                } 
+            }
+        },
+        {
+            "program": {
+                "title": "Classic DuckDungeon launcher",
+                "description": "The classic launcher for the game DuckDungeon.",
+                "image": "https://github.com/Prince527GitHub/App-Store/blob/images/GameLauncher_jCRjwLY9Tb.png?raw=true"
+            },
+            "author": {
+                "name": "Arpi",
+                "twitter": "@AdrianoaDev",
+                "image": "https://github.com/Prince527GitHub/App-Store/blob/images/avatar.png?raw=true"
+            },
+            "downloads": {
+                "version": "1.0",
+                "windows": "https://prince527github.github.io/App-Store/apps/Classic%20Duck%20Dungeon%20Launcher.7z",
+                "filename": "GameLauncher.exe",
+                "compressed": "7z",
+                "folder": {
+                    "option": "false",
+                    "name": "nothing"
                 } 
             }
         }
