@@ -65,6 +65,28 @@
                     "name": "nothing"
                 } 
             }
+        },
+        {
+            "program": {
+                "title": "Music Player",
+                "description": "A very simple music player.",
+                "image": "https://raw.githubusercontent.com/Prince527GitHub/Simple-Apps/zips/Images%20for%20README/electron_6wNwwdeT8k.png"
+            },
+            "author": {
+                "name": "Prince527",
+                "twitter": "@Prince527gaming",
+                "image": "https://github.com/Prince527GitHub/App-Store/blob/images/pika527v3.png?raw=true"
+            },
+            "downloads": {
+                "version": "1.0",
+                "windows": "https://github.com/Prince527GitHub/Simple-Apps/blob/zips/Music%20Player/music-player.zip?raw=true",
+                "filename": "music.exe",
+                "compressed": "zip",
+                "folder": {
+                    "option": "false",
+                    "name": "nothing"
+                } 
+            }
         }
     ]
 }
