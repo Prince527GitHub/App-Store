@@ -70,7 +70,7 @@
             "program": {
                 "title": "Music Player",
                 "description": "A very simple music player.",
-                "image": "https://raw.githubusercontent.com/Prince527GitHub/Simple-Apps/zips/Images%20for%20README/electron_6wNwwdeT8k.png"
+                "image": "https://github.com/Prince527GitHub/Simple-Apps/blob/zips/Images%20for%20README/music_dHkn0SOjQS.png?raw=true"
             },
             "author": {
                 "name": "Prince527",
@@ -79,7 +79,7 @@
             },
             "downloads": {
                 "version": "1.0",
-                "windows": "https://github.com/Prince527GitHub/Simple-Apps/blob/zips/Music%20Player/music-player.zip?raw=true",
+                "windows": "https://github.com/Prince527GitHub/Simple-Apps/blob/zips/Music%20Player/music-player-v2.0.zip?raw=true",
                 "filename": "music.exe",
                 "compressed": "zip",
                 "folder": {
