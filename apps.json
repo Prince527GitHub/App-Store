@@ -78,9 +78,31 @@
                 "image": "https://github.com/Prince527GitHub/App-Store/blob/images/pika527v3.png?raw=true"
             },
             "downloads": {
-                "version": "1.0",
+                "version": "2.0",
                 "windows": "https://github.com/Prince527GitHub/Simple-Apps/blob/zips/Music%20Player/music-player-v2.0.zip?raw=true",
                 "filename": "music.exe",
+                "compressed": "zip",
+                "folder": {
+                    "option": "false",
+                    "name": "nothing"
+                } 
+            }
+        },
+        {
+            "program": {
+                "title": "Anime Search",
+                "description": "A very simple program to search for anime.",
+                "image": "https://github.com/Prince527GitHub/Simple-Apps/blob/zips/Images%20for%20README/anime_EDoAj5mahV.jpg?raw=true"
+            },
+            "author": {
+                "name": "Prince527",
+                "twitter": "@Prince527gaming",
+                "image": "https://github.com/Prince527GitHub/App-Store/blob/images/pika527v3.png?raw=true"
+            },
+            "downloads": {
+                "version": "1.0",
+                "windows": "https://github.com/Prince527GitHub/Simple-Apps/blob/zips/Anime/anime-v1.0.zip?raw=true",
+                "filename": "anime.exe",
                 "compressed": "zip",
                 "folder": {
                     "option": "false",
