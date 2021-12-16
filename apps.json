@@ -4,12 +4,12 @@
             "program": {
                 "title": "Prince527's MC launcher",
                 "description": "A launcher for most of Prince527's MC packs and more!",
-                "image": "https://github.com/Prince527GitHub/App-Store/blob/images/electron_GYFOo1wwT1.png?raw=true"
+                "image": "https://github.com/Prince527GitHub/App-Store/blob/images/apps/pmclauncher.png?raw=true"
             },
             "author": {
                 "name": "Prince527",
                 "twitter": "@Prince527gaming",
-                "image": "https://github.com/Prince527GitHub/App-Store/blob/images/pika527v3.png?raw=true"
+                "image": "https://github.com/Prince527GitHub/App-Store/blob/images/author/prince.png?raw=true"
             },
             "downloads": {
                 "version": "2.0.5.1",
@@ -26,12 +26,12 @@
             "program": {
                 "title": "DuckDungeon launcher",
                 "description": "The launcher for the game DuckDungeon.",
-                "image": "https://github.com/Prince527GitHub/App-Store/blob/images/electron_aC9zdIUIUD.png?raw=true"
+                "image": "https://github.com/Prince527GitHub/App-Store/blob/images/apps/ddlauncher.png?raw=true"
             },
             "author": {
                 "name": "Arpi & Prince",
                 "twitter": "@AdrianoaDev & @Prince527gaming",
-                "image": "https://github.com/Prince527GitHub/App-Store/blob/images/prince+arpi.png?raw=true"
+                "image": "https://github.com/Prince527GitHub/App-Store/blob/images/author/prince+arpi.png?raw=true"
             },
             "downloads": {
                 "version": "1.0",
@@ -48,12 +48,12 @@
             "program": {
                 "title": "Classic DuckDungeon launcher",
                 "description": "The classic launcher for the game DuckDungeon.",
-                "image": "https://github.com/Prince527GitHub/App-Store/blob/images/GameLauncher_jCRjwLY9Tb.png?raw=true"
+                "image": "https://github.com/Prince527GitHub/App-Store/blob/images/apps/cddlauncher.png?raw=true"
             },
             "author": {
                 "name": "Arpi",
                 "twitter": "@AdrianoaDev",
-                "image": "https://github.com/Prince527GitHub/App-Store/blob/images/avatar.png?raw=true"
+                "image": "https://github.com/Prince527GitHub/App-Store/blob/images/author/arpi.png?raw=true"
             },
             "downloads": {
                 "version": "1.0",
@@ -70,12 +70,12 @@
             "program": {
                 "title": "Music Player",
                 "description": "A very simple music player.",
-                "image": "https://github.com/Prince527GitHub/Simple-Apps/blob/zips/Images%20for%20README/music_dHkn0SOjQS.png?raw=true"
+                "image": "https://github.com/Prince527GitHub/App-Store/blob/images/apps/music.png?raw=true"
             },
             "author": {
                 "name": "Prince527",
                 "twitter": "@Prince527gaming",
-                "image": "https://github.com/Prince527GitHub/App-Store/blob/images/pika527v3.png?raw=true"
+                "image": "https://github.com/Prince527GitHub/App-Store/blob/images/author/prince.png?raw=true"
             },
             "downloads": {
                 "version": "2.0",
@@ -92,12 +92,12 @@
             "program": {
                 "title": "Anime Search",
                 "description": "A very simple program to search for anime.",
-                "image": "https://github.com/Prince527GitHub/Simple-Apps/blob/zips/Images%20for%20README/anime_EDoAj5mahV.jpg?raw=true"
+                "image": "https://github.com/Prince527GitHub/App-Store/blob/images/apps/anime.jpg?raw=true"
             },
             "author": {
                 "name": "Prince527",
                 "twitter": "@Prince527gaming",
-                "image": "https://github.com/Prince527GitHub/App-Store/blob/images/pika527v3.png?raw=true"
+                "image": "https://github.com/Prince527GitHub/App-Store/blob/images/author/prince.png?raw=true"
             },
             "downloads": {
                 "version": "1.0",
@@ -114,12 +114,12 @@
             "program": {
                 "title": "Downloader",
                 "description": "A very simple program to download files.",
-                "image": "https://github.com/Prince527GitHub/Simple-Apps/blob/zips/Images%20for%20README/downloader_gZkzvRz6d7.png?raw=true"
+                "image": "https://github.com/Prince527GitHub/App-Store/blob/images/apps/downloader.png?raw=true"
             },
             "author": {
                 "name": "Prince527",
                 "twitter": "@Prince527gaming",
-                "image": "https://github.com/Prince527GitHub/App-Store/blob/images/pika527v3.png?raw=true"
+                "image": "https://github.com/Prince527GitHub/App-Store/blob/images/author/prince.png?raw=true"
             },
             "downloads": {
                 "version": "1.0",
