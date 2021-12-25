@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Prince527GitHub/App-Store">
-    <img src="https://api.serversmp.xyz/upload/prince/logo.png" alt="EXA-Logo" width="200" height="200">
+    <img src="https://github.com/Prince527GitHub/App-Store/blob/main/src/assets/image/logo.png?raw=true" alt="EXA-Logo" width="200" height="200">
   </a>
 
   <h1 align="center">App Store</h1>
