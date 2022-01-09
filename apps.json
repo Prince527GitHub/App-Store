@@ -78,8 +78,8 @@
                 "image": "https://github.com/Prince527GitHub/App-Store/blob/images/author/prince.png?raw=true"
             },
             "downloads": {
-                "version": "2.0",
-                "windows": "https://github.com/Prince527GitHub/Simple-Apps/blob/zips/Music%20Player/music-player-v2.0.zip?raw=true",
+                "version": "3.0",
+                "windows": "https://github.com/Prince527GitHub/Simple-Apps/blob/zips/Music%20Player/music-player-v3.0.zip?raw=true",
                 "filename": "music.exe",
                 "compressed": "zip",
                 "folder": {
