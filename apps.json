@@ -16,10 +16,7 @@
                 "windows": "https://github.com/Prince527GitHub/Prince527-MC-launcher/releases/download/3.0/Prince527.s.MC.Launcher.zip",
                 "filename": "Prince527's MC Launcher.exe",
                 "compressed": "zip",
-                "folder": {
-                    "option": "true",
-                    "name": "Prince527's MC Launcher"
-                } 
+                "folder": "Prince527's MC Launcher"
             }
         },
         {
@@ -38,10 +35,7 @@
                 "windows": "https://prince527github.github.io/App-Store/apps/Duck%20Dungeon%20Launcher.7z",
                 "filename": "Duck Dungeon Launcher.exe",
                 "compressed": "7z",
-                "folder": {
-                    "option": "false",
-                    "name": "nothing"
-                } 
+                "folder": null
             }
         },
         {
@@ -60,10 +54,7 @@
                 "windows": "https://prince527github.github.io/App-Store/apps/Classic%20Duck%20Dungeon%20Launcher.7z",
                 "filename": "GameLauncher.exe",
                 "compressed": "7z",
-                "folder": {
-                    "option": "false",
-                    "name": "nothing"
-                } 
+                "folder": null
             }
         },
         {
@@ -82,10 +73,7 @@
                 "windows": "https://github.com/Prince527GitHub/Simple-Apps/blob/zips/Music%20Player/music-player-v3.0.zip?raw=true",
                 "filename": "music.exe",
                 "compressed": "zip",
-                "folder": {
-                    "option": "false",
-                    "name": "nothing"
-                } 
+                "folder": null
             }
         },
         {
@@ -104,10 +92,7 @@
                 "windows": "https://github.com/Prince527GitHub/Simple-Apps/blob/zips/Anime/anime-v1.0.zip?raw=true",
                 "filename": "anime.exe",
                 "compressed": "zip",
-                "folder": {
-                    "option": "false",
-                    "name": "nothing"
-                } 
+                "folder": null
             }
         },
         {
@@ -126,10 +111,7 @@
                 "windows": "https://github.com/Prince527GitHub/Simple-Apps/blob/zips/Downloader/downloader-v1.0.zip?raw=true",
                 "filename": "downloader.exe",
                 "compressed": "zip",
-                "folder": {
-                    "option": "false",
-                    "name": "nothing"
-                } 
+                "folder": null
             }
         }
     ]
