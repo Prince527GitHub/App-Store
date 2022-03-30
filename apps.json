@@ -13,9 +13,9 @@
             },
             "downloads": {
                 "version": "3.0",
-                "windows": "https://github.com/Prince527GitHub/Prince527-MC-launcher/blob/auto-updater/auto-updater.zip?raw=true",
+                "windows": "https://github.com/Prince527GitHub/Prince527-MC-launcher/blob/auto-updater/auto-updater.7z?raw=true",
                 "filename": "Prince527's MC launcher.exe",
-                "compressed": "zip",
+                "compressed": "7z",
                 "folder": null
             }
         },
