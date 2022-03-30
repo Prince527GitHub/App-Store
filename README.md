@@ -26,10 +26,7 @@
         "windows": "",
         "filename": "",
         "compressed": "",
-        "folder": {
-            "option": "",
-            "name": ""
-        } 
+        "folder": ""
     }
 }
 ```
@@ -51,10 +48,7 @@
         "windows": "https://github.com/Prince527GitHub/Prince527-MC-launcher/releases/download/2.0.5.1/Prince527.s.MC.Launcher.v2.0.5.1.zip",
         "filename": "Prince527's MC Launcher.exe",
         "compressed": "zip",
-        "folder": {
-            "option": "true",
-            "name": "Prince527's MC Launcher"
-        } 
+        "folder": "Prince527's MC Launcher"
     }
 }
 ```
