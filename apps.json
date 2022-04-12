@@ -113,6 +113,25 @@
                 "compressed": "zip",
                 "folder": null
             }
+        },
+        {
+            "program": {
+                "title": "Prince527's FNF Mod",
+                "description": "This is a mod for fnf that add other mods in to it.",
+                "image": "https://raw.githubusercontent.com/Prince527GitHub/App-Store/images/apps/fnfmod.png"
+            },
+            "author": {
+                "name": "Prince527",
+                "twitter": "@Prince527gaming",
+                "image": "https://github.com/Prince527GitHub/App-Store/blob/images/author/prince.png?raw=true"
+            },
+            "downloads": {
+                "version": "1.0",
+                "windows": "https://github.com/Prince527GitHub/Prince527-FNF-Mod/releases/download/1.0/Prince527-FNF-Mod.7z",
+                "filename": "Funkin.exe",
+                "compressed": "7z",
+                "folder": null
+            }
         }
     ]
 }
