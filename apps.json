@@ -132,6 +132,25 @@
                 "compressed": "7z",
                 "folder": null
             }
+        },
+        {
+            "program": {
+                "title": "Arpi Orgins Launcher",
+                "description": "A launcher for the arpi cult server.",
+                "image": "https://raw.githubusercontent.com/Prince527GitHub/App-Store/images/apps/arpilauncher.png"
+            },
+            "author": {
+                "name": "Arpi",
+                "twitter": "@AdrianoaDev",
+                "image": "https://github.com/Prince527GitHub/App-Store/blob/images/author/prince.png?raw=true"
+            },
+            "downloads": {
+                "version": "1.0",
+                "windows": "https://prince527github.github.io/App-Store/apps/Arpi%20Origins%20Launcher.7z",
+                "filename": "Arpi Origins Launcher.exe",
+                "compressed": "7z",
+                "folder": null
+            }
         }
     ]
 }
