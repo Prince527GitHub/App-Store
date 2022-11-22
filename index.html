@@ -69,7 +69,7 @@
     }
 
     async function fetchApps() {
-        const list = await (await fetch("https://prince527github.github.io/App-Store/apps.json")).json();
+        const list = await (await fetch("./apps.json")).json();
 
         for (let index = 0; index < list.apps.length; index++) {
             const app = list.apps[index];
