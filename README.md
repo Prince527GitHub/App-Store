@@ -2,7 +2,7 @@
 
 <p align="center">This is the web server for the launcher.</p>
 
-<h3 align="center">App Store</h3
+<h3 align="center">Example</h3>
 ```json
 {
     "program": {
