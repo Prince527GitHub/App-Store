@@ -1,48 +1,26 @@
 <h2 align="center">App Store</h2>
 
-### This is the web server for the launcher.
+<p align="center">This is the web server for the launcher.</p>
 
-## Schema
-```json
-{
-    "game": {
-        "title": "",
-        "description": "",
-        "image": ""
-    },
-    "author": {
-        "name": "",
-        "twitter": "",
-        "image": ""
-    },
-    "downloads": {
-        "version": "",
-        "windows": "",
-        "filename": "",
-        "compressed": "",
-        "folder": ""
-    }
-}
-```
-## Exsemple
+<h3 align="center">App Store</h3
 ```json
 {
     "program": {
         "title": "Prince527's MC launcher",
         "description": "A launcher for most of Prince527's MC packs and more!",
-        "image": "https://api.serversmp.xyz/upload/prince/electron_GYFOo1wwT1.png"
+        "image": "https://github.com/Prince527GitHub/App-Store/blob/images/apps/pmclauncher.png?raw=true"
     },
     "author": {
         "name": "Prince527",
         "twitter": "@Prince527gaming",
-        "image": "https://api.serversmp.xyz/upload/prince/pika527v3.png"
+        "image": "https://github.com/Prince527GitHub/App-Store/blob/images/author/prince.png?raw=true"
     },
     "downloads": {
-        "version": "2.0",
-        "windows": "https://github.com/Prince527GitHub/Prince527-MC-launcher/releases/download/2.0.5.1/Prince527.s.MC.Launcher.v2.0.5.1.zip",
-        "filename": "Prince527's MC Launcher.exe",
-        "compressed": "zip",
-        "folder": "Prince527's MC Launcher"
+        "version": "3.0",
+        "windows": "https://github.com/Prince527GitHub/Prince527-MC-launcher/blob/auto-updater/auto-updater.7z?raw=true",
+        "filename": "Prince527's MC launcher.exe",
+        "compressed": "7z",
+        "folder": null
     }
 }
 ```
