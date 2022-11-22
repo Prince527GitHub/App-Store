@@ -1,10 +1,4 @@
-<p align="center">
-  <a href="https://github.com/Prince527GitHub/App-Store">
-    <img src="https://github.com/Prince527GitHub/App-Store/blob/main/src/assets/image/logo.png?raw=true" alt="EXA-Logo" width="200" height="200">
-  </a>
-
-  <h1 align="center">App Store</h1>
-</p>
+<h2 align="center">App Store</h2>
 
 ### This is the web server for the launcher.
 
