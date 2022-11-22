@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./assets/css/style.min.css">
+    <link rel="stylesheet" href="./assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="./assets/css/bootstrap-icons.min.css">
+    <!-- <script src="/assets/js/bootstrap.bundle.min.js"></script> -->
+	<link rel="shortcut icon" href="./assets/image/logo.png">
+    <title>App Store</title>
+</head>
+
+<body>
+    <div class="row row-cols-1 row-cols-md-3 g-4" id="grid" style="margin-top:15px;margin-left:15px">
+        <div class="col">
+            <div class="card h-100 text-wrap text-white" style="background-image:url('./assets/image/app-store.jpg');background-repeat:no-repeat;background-attachment:fixed;background-size:cover;">
+                <div class="card-body">
+                    <h5 class="card-title">App Store</h5>
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item text-white" style="background-color:transparent;">
+                            <img class="avatar_img" src="../developers/assets/image/prince527.jpg" alt="author-image">
+                            <span class="author">Prince527</span>
+                            <h6><i class="bi bi-twitter"></i> @Prince527gaming</h6>
+                        </li>
+                    </ul>
+                    <p class="card-text">A simple program to download other programs that ive made.</p>
+                    <div class="card-body text-white"><a href="https://github.com/Prince527GitHub/App-Store/releases/latest" class="card-link btn btn-secondary"><i class="bi bi-download"></i></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="settingsBtn">
+        <button type="button" class="btn btn-secondary bottom-right" onclick="mode()" id="settings-btn">
+            <i class="bi bi-gear"></i>
+        </button>
+    </div>
+</body>
+
+<script>
+    const btn = document.getElementById("settings-btn");
+    const grid = document.getElementById("grid")
+    const body = document.body;
+
+    if (!localStorage.getItem("darkmode")) localStorage.setItem("darkmode", "false");
+
+    if (localStorage.getItem("darkmode") === "true") {
+        btn.innerHTML = `<i class="bi bi-moon"></i>`;
+        body.style.background = "#23272B";
+    } else {
+        btn.innerHTML = `<i class="bi bi-sun"></i>`;
+        body.style.background = "#ffffff";
+    }
+
+    function mode() {
+        if (localStorage.getItem("darkmode") === "true") {
+            btn.innerHTML = `<i class="bi bi-sun"></i>`;
+            body.style.background = "#ffffff";
+
+            localStorage.setItem("darkmode", "false");
+        } else {
+            btn.innerHTML = `<i class="bi bi-moon"></i>`;
+            body.style.background = "#23272B";
+
+            localStorage.setItem("darkmode", "true");
+        }
+    }
+
+    async function fetchApps() {
+        const list = await (await fetch("https://prince527github.github.io/App-Store/apps.json")).json();
+
+        for (let index = 0; index < list.apps.length; index++) {
+            const app = list.apps[index];
+
+            grid.innerHTML += `<div class="col"><div class="card h-100 text-wrap text-white" style="background-image:url('${app.program.image}');background-repeat:no-repeat;background-attachment:fixed;background-size:cover;"><div class="card-body"><h5 class="card-title">${app.program.title} v${app.downloads.version}</h5><ul class="list-group list-group-flush"><li class="list-group-item text-white" style="background-color:#ffffff00;"><img class="avatar_img" src="${app.author.image}" alt="author-image"><span class="author">${app.author.name}</span><h6><i class="bi bi-twitter"></i> ${app.author.twitter}</h6></li></ul><p class="card-text">${app.program.description}</p><div class="card-body text-white"><a href="${app.downloads.windows}" class="card-link btn btn-secondary"><i class="bi bi-download"></i></a></div></div></div></div>`;
+        }
+    }
+
+    fetchApps();
+</script>
+
+</html>
