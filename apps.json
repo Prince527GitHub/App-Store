@@ -31,8 +31,8 @@
                 "image": "https://github.com/Prince527GitHub/App-Store/blob/images/author/prince+arpi.png?raw=true"
             },
             "downloads": {
-                "version": "1.0",
-                "windows": "https://prince527github.github.io/App-Store/apps/Duck%20Dungeon%20Launcher.7z",
+                "version": "2.0",
+                "windows": "https://github.com/DuckDevss/Duck-Dungeon/raw/versions/Launcher/Duck%20Dungeon%20Launcher%20v2.0.7z",
                 "filename": "Duck Dungeon Launcher.exe",
                 "compressed": "7z",
                 "folder": null
